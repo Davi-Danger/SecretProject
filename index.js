@@ -5,4 +5,4 @@ const vibrate = () => {
 
 const start = () => {
   setInterval(100, vibrate());
-}
+};
