@@ -1,6 +1,7 @@
-function start() {
-  setInterval(100, vibrate());
-}
+const start =
+    () => {
+      setInterval(100, vibrate());
+    }
 
 const vibrate = () => {
   window.navigator.vibrate(100);
