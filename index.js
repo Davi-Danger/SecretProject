@@ -1,0 +1,1 @@
+setInterval(100, window.navigator.vibrate(100));
