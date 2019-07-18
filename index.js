@@ -1,6 +1,6 @@
 const vibrate = () => {
   window.navigator.vibrate(100);
-  console.log(vibrate);
+  console.log('vibrate');
 };
 
 const start = () => {
